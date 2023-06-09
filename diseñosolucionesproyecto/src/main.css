@@ -1,0 +1,45 @@
+body {
+  background: #202020;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.form-text a {
+  align-items: center;
+  text-align: center;
+}
+
+.carousel {
+  margin-bottom: 20px;
+}
+
+.card h5{
+  color: #000;
+}
+
+.card-body p{
+  color: #000;
+}
+/*NAV BAR*/
+
+.navbar {
+  position: sticky;
+  top: 0;
+  height: 90px;
+  z-index: 2;
+  color: #000;
+}
+
+.adminbutton {
+  align-items: center;
+  text-align: center;
+}
+
+/*ICONO WHATSAPP*/
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
